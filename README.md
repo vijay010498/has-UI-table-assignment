@@ -1,5 +1,8 @@
 # http://www.hasura.vijayaraghavan.com/
 
+# Direct API 
+# http://www.hasura.vijayaraghavan.com/api/service/students
+
 
 Completed the assignment in micro-services architecture using kubernetes cluster in the real production style and automated the CI/CD using github actions
 ![github-actions](https://firebasestorage.googleapis.com/v0/b/eatitv2-75508.appspot.com/o/hasura%2Fgithub_actions.JPG?alt=media&token=e2bb96d0-84b5-48df-b02a-9f045dbd1ac3)
