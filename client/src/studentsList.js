@@ -7,6 +7,7 @@ import {JsonToTable} from "react-json-to-table";
 export default () =>{
 
     const [students, setStudents] = useState({});
+    let testPR = [];
     
     const fetchStudents = async () =>{
         const res = await axios.get('/api/service/students');
