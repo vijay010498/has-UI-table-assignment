@@ -8,7 +8,7 @@ on:
       - 'service/**' 
 jobs:
   build:
-    runs-on: ububtu-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - run: cd service && docker build -t vijay010498/hasura-ui-service .
